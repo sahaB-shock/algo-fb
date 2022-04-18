@@ -1,0 +1,13 @@
+D:\BS_VS_Projects\AlgoFB\AlgoFB\bin\Debug\netcoreapp3.1\AlgoFB.exe
+D:\BS_VS_Projects\AlgoFB\AlgoFB\bin\Debug\netcoreapp3.1\AlgoFB.deps.json
+D:\BS_VS_Projects\AlgoFB\AlgoFB\bin\Debug\netcoreapp3.1\AlgoFB.runtimeconfig.json
+D:\BS_VS_Projects\AlgoFB\AlgoFB\bin\Debug\netcoreapp3.1\AlgoFB.runtimeconfig.dev.json
+D:\BS_VS_Projects\AlgoFB\AlgoFB\bin\Debug\netcoreapp3.1\AlgoFB.dll
+D:\BS_VS_Projects\AlgoFB\AlgoFB\bin\Debug\netcoreapp3.1\AlgoFB.pdb
+D:\BS_VS_Projects\AlgoFB\AlgoFB\obj\Debug\netcoreapp3.1\AlgoFB.csprojAssemblyReference.cache
+D:\BS_VS_Projects\AlgoFB\AlgoFB\obj\Debug\netcoreapp3.1\AlgoFB.AssemblyInfoInputs.cache
+D:\BS_VS_Projects\AlgoFB\AlgoFB\obj\Debug\netcoreapp3.1\AlgoFB.AssemblyInfo.cs
+D:\BS_VS_Projects\AlgoFB\AlgoFB\obj\Debug\netcoreapp3.1\AlgoFB.csproj.CoreCompileInputs.cache
+D:\BS_VS_Projects\AlgoFB\AlgoFB\obj\Debug\netcoreapp3.1\AlgoFB.dll
+D:\BS_VS_Projects\AlgoFB\AlgoFB\obj\Debug\netcoreapp3.1\AlgoFB.pdb
+D:\BS_VS_Projects\AlgoFB\AlgoFB\obj\Debug\netcoreapp3.1\AlgoFB.genruntimeconfig.cache

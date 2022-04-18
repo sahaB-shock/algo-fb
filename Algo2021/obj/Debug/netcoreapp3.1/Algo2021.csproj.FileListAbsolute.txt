@@ -1,0 +1,13 @@
+D:\BS_VS_Projects\AlgoFB\Algo2021\bin\Debug\netcoreapp3.1\Algo2021.exe
+D:\BS_VS_Projects\AlgoFB\Algo2021\bin\Debug\netcoreapp3.1\Algo2021.deps.json
+D:\BS_VS_Projects\AlgoFB\Algo2021\bin\Debug\netcoreapp3.1\Algo2021.runtimeconfig.json
+D:\BS_VS_Projects\AlgoFB\Algo2021\bin\Debug\netcoreapp3.1\Algo2021.runtimeconfig.dev.json
+D:\BS_VS_Projects\AlgoFB\Algo2021\bin\Debug\netcoreapp3.1\Algo2021.dll
+D:\BS_VS_Projects\AlgoFB\Algo2021\bin\Debug\netcoreapp3.1\Algo2021.pdb
+D:\BS_VS_Projects\AlgoFB\Algo2021\obj\Debug\netcoreapp3.1\Algo2021.csprojAssemblyReference.cache
+D:\BS_VS_Projects\AlgoFB\Algo2021\obj\Debug\netcoreapp3.1\Algo2021.AssemblyInfoInputs.cache
+D:\BS_VS_Projects\AlgoFB\Algo2021\obj\Debug\netcoreapp3.1\Algo2021.AssemblyInfo.cs
+D:\BS_VS_Projects\AlgoFB\Algo2021\obj\Debug\netcoreapp3.1\Algo2021.csproj.CoreCompileInputs.cache
+D:\BS_VS_Projects\AlgoFB\Algo2021\obj\Debug\netcoreapp3.1\Algo2021.dll
+D:\BS_VS_Projects\AlgoFB\Algo2021\obj\Debug\netcoreapp3.1\Algo2021.pdb
+D:\BS_VS_Projects\AlgoFB\Algo2021\obj\Debug\netcoreapp3.1\Algo2021.genruntimeconfig.cache
